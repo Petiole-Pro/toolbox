@@ -1,5 +1,5 @@
 # Leaf Greenness Index
-![alt text](https://github.com/petiole-ltd/toolbox-md/blob/main/green-colour-index.jpg)
+![alt text](https://github.com/Petiole-Pro/toolbox/blob/main/green-colour-index.jpg)
 ## Your time, as a grower, is limited. You have multiple projects you need to complete and dozens of plants to check for Nitrogen deficiency. You don’t have sufficient time to do in-depth research on each plant. You struggle with productivity. We get it. We’ve been there, done that, and on many occasions, we still do it today.
 
 Thankfully, you—(and we)—don’t have to accept this order of things. 
@@ -18,7 +18,7 @@ Any instantly captured measurements are geo-referenced and can be shared to your
 
 Ready to measure the greenness of your leaves? Get started for free
 
-![alt text](https://github.com/petiole-ltd/toolbox-md/blob/main/colour-measurement.jpg)
+![alt text](https://github.com/Petiole-Pro/toolbox/blob/main/colour-measurement.jpg)
 
 <sub><sup>In order for the Leaf Greenness Index to be used properly, you must purchase the Greenness Calibration Pad. [Send us](mailto:support@petioleapp.com) your request to buy it.</sub></sup>
 © 2021 GitHub, Inc.
