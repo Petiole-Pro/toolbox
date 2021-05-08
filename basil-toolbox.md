@@ -16,7 +16,7 @@ This tough question for growers has been already answered by special algorithms 
 
 **Ground Cover** will calculate the leaf area from the top above your plant to show you the amount of ground covered by the Basil plant.
 
-Are you ready to grow your plants making data-driven decisions? Then leave your email and you’ll be able to get your Basil Toolbox as soon as it will be available in Petiole Pro.
+Are you ready to grow your plants making data-driven decisions? Then [leave us](mailto:support@petioleapp.com)  your email and you’ll be able to get your Basil Toolbox as soon as it will be available in Petiole Pro.
 
 
 ![alt text](https://github.com/Petiole-Pro/toolbox/blob/eb0d4fc0f6efbd723a7895f1c02f20776cdb9648/basil-pot-computer-vision.jpg)
